@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>forms/ogon_background_16.png</file>
+    <file>forms/ogon_background_24.png</file>
+  </qresource>
+</RCC>
